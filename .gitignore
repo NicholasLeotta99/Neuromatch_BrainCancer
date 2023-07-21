@@ -1,1 +1,6 @@
-kaggle.json
+.kaggle/kaggle.json
+
+code/Testing
+code/Training
+code/Validation
+brain-tumor-mri-dataset.zip
