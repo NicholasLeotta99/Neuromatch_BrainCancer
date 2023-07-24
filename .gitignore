@@ -4,3 +4,5 @@ code/Testing
 code/Training
 code/Validation
 brain-tumor-mri-dataset.zip
+
+code/Model/*
