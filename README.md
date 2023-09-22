@@ -8,4 +8,7 @@ Project Organization
     ├── Brainstorm.txt    <- Google drive link to brainstorming document
     ├── abstract.txt      <- Google drive link to abstract document
     └── code
-         └── VGG19 Classifier Test.ipynb       <- Script to generate simple VGG19 model and display loaded layers
+         └── Brain-Tumor-Classification-with-VGG19-&-ResNet (Nick Branch)     <- Script to generate VGG19 and ResNet model and display loaded layers
+         └── Brain-Tumor-Segmentation-with-UNet             (Marco Branch)    <- script to generate a U-Net with pytorch
+         └── Brain-Tumor-Classification-with-DeiT           (Mohammad Branch) <- script to generate a Vision Transformer(DeiT) for classification with pytorch
+         
